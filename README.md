@@ -15,7 +15,21 @@
 
 ## Introduction <a name="Introduction"></a>
 
-In this project, I made an analysis on global and local (Bangkok) temperature trend data and compared these trends. The process is starting from apply the SQL to extract data from the Udacity's Project database as a CSV file, the use Python for data analysis and visualization. Finally, sprinkle some magic powder to create PDF report via Canva.
+In this project, I've selected the  TMDB Movie Data Analysis which contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. The data is cleaned from the <a href = "https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata">kaggle</a> original data and making a question analysis in the following: 
+
+#### Questions for Analysis
+
+1.Research Question 1: What is the percentage of each rating level?
+
+2.Research Question 2:  What are the characteristics of high rating movies?
+
+3.Research Question 3: Which year release the most amount of high rating movies?
+
+4.Research Question 4:  Is the budget associated with the rating level?
+
+5.Research Question 5:  Is the runtime associated with the rating level?
+
+6.Research Question 6: What is the most occurrence word in the tagline of the high rating movie?
 
 ## Udacity's Project Instruction <a name="instruction"></a>
 For the final project, you will conduct your own data analysis and create a file to share that documents your findings. You should start by taking a look at your dataset and brainstorming what questions you could answer using it. Then you should use pandas and NumPy to answer the questions you are most interested in, and create a report sharing the answers. You will not be required to use inferential statistics or machine learning to complete this project, but you should make it clear in your communications that your findings are tentative. This project is open-ended in that we are not looking for one right answer.
